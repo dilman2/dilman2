@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilman2
+- 👋 Hi, I’m Dilman Khan, @dilman2
 - 👀 I’m interested in Ruby, JavaScript and Python programming languages.
 - 🌱 I’m currently learning Ruby programming language and Ruby on Rails framework.
 - 💞️ I’m looking to collaborate on web and mobile projects with Rails as the backend.
